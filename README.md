@@ -75,7 +75,7 @@ Small progress every day eventually becomes something meaningful.
 
 📊 GitHub Journey
 
-Day 1:31/5/2026
+Day 1:
 ■□□□□□□□□□
 
 Day 100:
