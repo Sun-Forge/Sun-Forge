@@ -1,95 +1,83 @@
-<!-- Header Section với hiệu ứng chuyển động -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C94C&height=220&section=header&text=SUN-FORGE&fontSize=80&fontColor=1a1a1a&animation=fadeIn&desc=Building%20Ideas%20Into%20Reality&descAlignY=75&descSize=20" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=F7C94C&center=true&vCenter=true&width=600&lines=Code+%E2%9C%A8+Create+%E2%9C%A8+Explore;Forging+the+Future+of+Technology;Transforming+Vision+Into+Software" alt="Typing SVG" />
-  
-  <p><b><i>"Kiến tạo trong tĩnh lặng, mài giũa những giá trị tỏa sáng."</i></b></p>
-  
-  <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Version-1.0.0-F7C94C?style=for-the-badge&logoColor=white" alt="Version"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Open_Source-%E2%99%A5-red?style=for-the-badge" alt="Open Source"></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F7C94C&center=true&vCenter=true&width=800&lines=Chào+mừng+bạn+đến+với+Sun-Forge;Nơi+những+ý+tưởng+thô+sơ+được+tôi<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=F7C94C&center=true&vCenter=true&width=800&lines=Chào+mừng+bạn+đến+với+Sun-Forge;Nơi+những+ý+tưởng+thô+sơ+được+tôi+luyện" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="image_1.png" width="100%" alt="Sun-Forge Banner" />
 </div>
 
 ---
 
-### 🚀 Tổng Quan Dự Án
+## 🌙 Về Chúng Tôi: Dự Án Sun-Forge
 
-**Sun-Forge** không chỉ là một kho lưu trữ mã nguồn, mà là một không gian chế tác công nghệ chuyên nghiệp. Chúng tôi tập trung vào việc nghiên cứu, phát triển và biến những ý tưởng phức tạp thành các giải pháp phần mềm toàn diện, tối ưu và có khả năng mở rộng cao.
+Chào mừng bạn đến với **Sun-Forge**, lò rèn của sự sáng tạo nơi những dòng code, thiết kế và thử nghiệm hội tụ để biến những ý tưởng "khởi nguồn lúc 2 giờ sáng" thành hiện thực.
 
-Danh xưng **Sun-Forge** là sự kết tinh của:
-*   ☀️ **Sun (Mặt trời):** Nguồn năng lượng, sự khởi nguyên và tầm nhìn sáng tạo.
-*   🔨 **Forge (Lò rèn):** Nơi những nguyên liệu thô sơ được tôi luyện qua áp lực để trở thành những sản phẩm tinh xảo, bền bỉ.
+Chúng tôi coi bản thân là những "Nghệ nhân Rèn Đêm," tìm thấy cảm hứng trong sự yên tĩnh của bóng tối và sử dụng năng lượng sáng tạo như một ánh mặt trời lúc nửa đêm.
 
 ---
 
-### ⚙️ Lĩnh Vực Cốt Lõi
+## ⚒️ Phòng Làm Việc Nửa Đêm: Nơi Rèn Giũa Tương Lai
 
-Thay vì đóng khung trong một giới hạn, Sun-Forge mở rộng kiến trúc và hệ sinh thái của mình qua nhiều khía cạnh công nghệ:
+Lò rèn của chúng tôi không chỉ là một không gian vật lý, mà là một tư duy. Hình ảnh avatar (image_0.png) thể hiện chính xác quy trình này. Hãy để chúng tôi dẫn bạn tham quan các "góc rèn" chuyên biệt của chúng tôi:
 
-| Lĩnh Vực | Mô Tả Trọng Tâm |
-| :--- | :--- |
-| 🌐 **Nền Tảng Web** | Xây dựng các hệ thống web đa tầng, tối ưu hiệu suất và chuẩn SEO. |
-| 🤖 **Tự Động Hóa & AI** | Tích hợp trí tuệ nhân tạo và tối ưu hóa quy trình làm việc. |
-| 📱 **Ứng Dụng Phần Mềm** | Phát triển các giải pháp đa nền tảng với kiến trúc mã nguồn sạch. |
-| 🧩 **Nghiên Cứu Lõi** | Thử nghiệm, phân tích và áp dụng các công nghệ/framework mới nhất. |
+### 1. Góc Số Hóa Ý Tưởng (Tablet & Stylus)
+Đây là nơi những phác thảo ban đầu hình thành. Chúng tôi sử dụng nó để:
+*   **Phát triển UI/UX:** Vẽ bản đồ trải nghiệm người dùng và giao diện tối ưu.
+*   **Kiến Trúc Phần Mềm:** Phác thảo cấu trúc code và hệ sinh thái phức tạp.
+*   **Sáng Tạo Đồ Họa:** Vẽ tranh minh họa và thiết kế nhân vật (như các linh vật mèo trong lò).
+
+### 2. Góc Kỹ Thuật Đêm (Clock: 22:30 & Desk Lamp)
+Dữ liệu của chúng tôi cho thấy những dự án đột phá nhất thường ra đời khi thế giới đang ngủ. Góc này tượng trưng cho sự tập trung tuyệt đối vào:
+*   **Automation:** Tự động hóa các quy trình tẻ nhạt.
+*   **AI Integration:** Tích hợp trí tuệ nhân tạo để làm cho dự án thông minh hơn.
+*   **Clean Code:** Mài giũa code cho đến khi nó tỏa sáng.
+
+### 3. Góc Học Tập & Thử Nghiệm (Books, Cameras, Figurines)
+Sự sáng tạo không bao giờ ngừng nghỉ. Góc này dành cho:
+*   **Tech Stack Exploration:** Khám phá ngôn ngữ và framework mới.
+*   **Fail Fast, Improve Faster:** Thử nghiệm ý tưởng và học hỏi từ thất bại.
+*   **Memory Archive (Camera):** Lưu giữ các bước phát triển của dự án.
 
 ---
 
-### 💻 Hệ Sinh Thái & Công Nghệ
+## 🚀 Chúng Tôi Đang Rèn Giũa Những Gì
 
-*Các công cụ và ngôn ngữ được chúng tôi sử dụng để rèn giũa các dự án:*
+Danh mục dự án của chúng tôi rất đa dạng, không bị giới hạn bởi một khuôn mẫu duy nhất:
 
 <div align="center">
   
-  <!-- Thay đổi hoặc thêm bớt các badge ngôn ngữ phù hợp với dự án của bạn -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  
+<img src="https://img.shields.io/badge/Web%20Design-FFB100?style=for-the-badge&logo=w3c&logoColor=white" /> <img src="https://img.shields.io/badge/Game%20Dev-FFB100?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-FFB100?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-FFB100?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Mobile%20Apps-FFB100?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Creative%20Tools-FFB100?style=for-the-badge&logo=adobe&logoColor=white" />
+
 </div>
 
 ---
 
-### 📊 Thống Kê Hoạt Động (GitHub Analytics)
+## 🌌 Triết Lý Rèn Đêm
+
+> **"Kỷ luật trong bóng tối, tỏa sáng dưới ánh mặt trời."**
+
+Chúng tôi tin vào sức mạnh của sự nhất quán và kỷ luật. Mỗi ngày là một bước rèn, mỗi tuần là một sản phẩm, và mỗi năm là một di sản.
+
+### Hành Trình Của Chúng Tôi Trên GitHub:
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=F7C94C&icon_color=F7C94C" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&title_color=F7C94C" alt="Top Langs" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Sun-Forge&show_icons=true&theme=dracula&title_color=FFB100&icon_color=FFB100&count_private=true&include_all_commits=true" alt="Sun-Forge Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-Forge&layout=compact&theme=dracula&title_color=FFB100" alt="Top Langs" />
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&color=F7C94C&line=F7C94C&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sun-Forge&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
-> **Lưu ý:** Đừng quên thay `YOUR_GITHUB_USERNAME` bằng tên người dùng GitHub thực tế của bạn để các bảng thống kê hiển thị chính xác nhé!
-
----
-
-### 🌌 Triết Lý Vận Hành
-
-> **Design with logic. Build with passion. Scale with architecture.**
-> *(Thiết kế bằng tư duy logic. Xây dựng bằng đam mê. Mở rộng bằng kiến trúc chuẩn.)*
-
-Tiến độ có thể bắt đầu bằng một khối vuông nhỏ (commit), nhưng sự nhất quán sẽ tạo ra một di sản lớn. Chúng tôi tin vào việc:
-1. Xác định vấn đề cốt lõi.
-2. Lựa chọn công nghệ phù hợp, không chạy theo xu hướng mù quáng.
-3. Đảm bảo chất lượng mã nguồn (Clean Code) ngay từ những dòng đầu tiên.
+*Chúng tôi làm việc khi thế giới đang ngủ.*
 
 ---
 
 <div align="center">
-  <b>Được thiết kế và duy trì bởi Sun-Forge Admin</b> <br>
-  <i>Khởi nguồn mọi ý tưởng vĩ đại</i>
+  ☀️ **Sun-Forge**
+  "The best projects often begin as small ideas at 2 AM."
+  🌙 🐈 ✨
 </div>
